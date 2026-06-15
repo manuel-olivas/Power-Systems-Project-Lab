@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\mokoo\OneDrive\Documents\LTspice\BMS\BMS Testing.net
+Start Time: Mon Jun 15 18:42:21 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+.step 
+Total elapsed time: 0.105 seconds.
+
+Files loaded:
+C:\Users\mokoo\OneDrive\Documents\LTspice\BMS\BMS Testing.net
+C:\Users\mokoo\OneDrive\Documents\LTspice\BMS\INA296A3.lib
+
